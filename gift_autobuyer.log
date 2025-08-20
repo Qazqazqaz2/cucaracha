@@ -1,0 +1,17 @@
+2025-08-10 17:18:09,836 - __main__ - ERROR - Missing required environment variables: BOT_TOKEN, ADMIN_USER_ID, DATABASE_URL
+2025-08-10 17:18:09,836 - __main__ - ERROR - Please create a .env file with the required variables.
+2025-08-10 17:19:06,478 - __main__ - ERROR - Missing required environment variables: BOT_TOKEN, ADMIN_USER_ID, DATABASE_URL
+2025-08-10 17:19:06,478 - __main__ - ERROR - Please create a .env file with the required variables.
+2025-08-10 17:42:51,147 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-08-10 17:42:51,148 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-08-10 17:42:51,405 - __main__ - INFO - Starting Telegram Gift Auto-Buyer Bot
+2025-08-10 17:42:51,787 - database - INFO - Database tables created
+2025-08-10 17:42:51,800 - database - INFO - Admin user set: 1327953308
+2025-08-10 17:42:51,800 - bot - INFO - Bot started successfully
+2025-08-10 17:42:51,800 - aiogram.dispatcher - INFO - Start polling
+2025-08-10 17:42:53,948 - aiogram.dispatcher - INFO - Run polling for bot @bitock_bot id=5330557380 - 'BitBot'
+2025-08-10 17:43:03,424 - aiogram.event - INFO - Update id=758568122 is handled. Duration 733 ms by bot id=5330557380
+2025-08-10 17:43:06,802 - aiogram.event - INFO - Update id=758568123 is handled. Duration 530 ms by bot id=5330557380
+2025-08-10 17:43:27,004 - aiogram.event - INFO - Update id=758568124 is handled. Duration 718 ms by bot id=5330557380
+2025-08-10 17:43:34,944 - aiogram.event - INFO - Update id=758568125 is handled. Duration 766 ms by bot id=5330557380
+2025-08-10 17:43:43,928 - aiogram.event - INFO - Update id=758568126 is handled. Duration 2905 ms by bot id=5330557380
